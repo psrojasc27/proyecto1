@@ -3,3 +3,5 @@ blur2a
 a.out
 *.zip
 *.pdf
+conv
+*.o
